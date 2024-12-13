@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dr-dyrane
-- 👀 I’m interested in software engineer
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on my wave chat app
+- 👀 I’m interested in solving problems with tech
+- 🌱 I’m currently a full stack development
+- 💞️ I’m looking to collaborate on a lot of my aplications
 - 📫 How to reach me @Dr_dyrane
 
 <!---
